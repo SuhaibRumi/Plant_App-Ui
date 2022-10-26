@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name":"Deffenbanchia",
+        "desc": "Outdoor",
+        "price": 23.55,
+        "image":"assets/1.png"
+    },
+    {
+        "id": 2,
+        "name":"cactus",
+        "desc": "Indoor",
+        "price": 518.08,
+        "image":"assets/2.png"
+    },
+    {
+        "id": 3,
+        "name":"chanine Money",
+        "desc": "Garden",
+        "price": 15.06,
+        "image":"assets/3.png"
+    },
+    {
+        "id": 4,
+        "name":"Succultent",
+        "desc": "Indoor",
+        "price": 6.09,
+        "image":"assets/4.png"
+    }, {
+        "id": 5,
+        "name":"Elovera",
+        "desc": "Indoor",
+        "price": 10.55,
+        "image":"assets/1.png"
+    }
+    
+]
